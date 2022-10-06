@@ -2,7 +2,7 @@
 
 This repository contains simulations from the paper "Spatial Agent-based Architecture Design Simulation Systems" by Anatolii Kotov, Rolf Starke & Ilija Vukorep presented on the eCAADe 2022 Conference.
 
-![](networks.gif.gif)
+![](networks.gif)
 
 # Installation and use
 
